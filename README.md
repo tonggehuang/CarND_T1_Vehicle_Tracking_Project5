@@ -14,7 +14,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 [image1]: ./output_images/data_preview.png
-[image2]: ./output_images/combination.png
+[image2]: ./output_images/combination.PNG
 [image3]: ./output_images/features_vis.png
 [image4]: ./output_images/labeled_heatmap.png
   
